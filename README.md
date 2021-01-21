@@ -1,3 +1,11 @@
+# 注
+
+本人最近已经不做flutter很久了，所以对于这个项目也不会支持了，如果要加我qq的话还是建议懂java原生的来，我会给你解决方法，但如果不懂java的话，那我也爱莫能助。
+
+这个项目在flutter 1.12.13 hotfix.7的环境下运行是没有问题的，我给之前的公司给出的解决方案就是这个，可惜我现在已经离职了，也不做flutter了。若项目不能运行，那就说声抱歉了。
+
+
+
 # Flutter plugins
 
 [![Build Status](https://api.cirrus-ci.com/github/flutter/plugins.svg)](https://cirrus-ci.com/github/flutter/plugins/master)
